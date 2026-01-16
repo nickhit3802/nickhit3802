@@ -32,4 +32,6 @@
 <h2>Helpful References</h2>
 <li>
     https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops
+    https://developer.mozilla.org/en-US/
+    https://learn.microsoft.com/en-us/dotnet/csharp/
 </li>
