@@ -28,3 +28,8 @@
 <p align="center">
     <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhitos&hide=html,&hide_border=true&title_color=fff&text_color=fff&bg_color=01121C"
 </p>
+
+<h2>Helpful References</h2>
+<li>
+    https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops
+</li>
