@@ -30,8 +30,7 @@
 </p>
 
 # References
-<li>
-    https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops
-    https://developer.mozilla.org/en-US/
-    https://learn.microsoft.com/en-us/dotnet/csharp/
-</li>
+- [Git Branching Guide](https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
