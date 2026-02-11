@@ -29,9 +29,18 @@
     <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhitos&hide=html,&hide_border=true&title_color=fff&text_color=fff&bg_color=01121C"
 </p>
 
+# .NET
+- [Sample ASP.NET Core 8.0 Web App](https://github.com/dotnet-architecture/eShopOnWeb/tree/main)
+
+# Amazon Web Services (AWS)
+- [Documentation](https://docs.aws.amazon.com/)
+
 # Git
 - [.gitignore Templates](https://github.com/github/gitignore)
 - [Git Branching Guide](https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
+
+# Structured Query Language (SQL)
+- [SQL Style Guide by Simon Holywell](https://www.sqlstyle.guide/)
 
 # Other
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
