@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in/nicolas-hitosis" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://nickhitos.github.io/portfolio-2/" target="_blank">
+    <a href="https://nickhitos.github.io/portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/website-8e918f?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
@@ -32,7 +32,14 @@
 ## Developer Reference
 
 ### Table of Contents
-- [Languages & Runtimes](languages-&-runtimes)
+1. [Languages & Runtimes](#languages--runtimes)
+2. [Frameworks & Libraries](#frameworks--libraries)
+3. [Database](#database)
+4. [Security](#security)
+5. [Version Control](#version-control)
+    - [Git](#git)
+6. [Web Platform & Standards](#web-platform--standards)
+7. [Cloud Platform & Infrastructure](#cloud-platform--infrastructure)
 
 ### Languages & Runtimes
 - C#: https://learn.microsoft.com/dotnet/csharp/
@@ -59,4 +66,4 @@
 - MDN Web Docs: https://developer.mozilla.org/en-US/ 
 
 ### Cloud Platform & Infrastructure
-- AWS — https://docs.aws.amazon.com/
+- AWS: https://docs.aws.amazon.com/
