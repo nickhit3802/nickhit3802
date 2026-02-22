@@ -31,6 +31,9 @@
 
 ## Developer Reference
 
+### Table of Contents
+- [Languages & Runtimes](languages-&-runtimes)
+
 ### Languages & Runtimes
 - C#: https://learn.microsoft.com/dotnet/csharp/
 - .NET runtime docs: https://learn.microsoft.com/dotnet/
