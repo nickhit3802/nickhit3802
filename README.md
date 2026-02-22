@@ -29,20 +29,31 @@
     <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhitos&hide=html,&hide_border=true&title_color=fff&text_color=fff&bg_color=01121C"
 </p>
 
-# .NET
-- [Sample ASP.NET Core 8.0 Web App](https://github.com/dotnet-architecture/eShopOnWeb/tree/main)
+## Developer Reference
 
-# Amazon Web Services (AWS)
-- [Documentation](https://docs.aws.amazon.com/)
+### Languages & Runtimes
+- C#: https://learn.microsoft.com/dotnet/csharp/
+- .NET runtime docs: https://learn.microsoft.com/dotnet/
 
-# Git
-- [.gitignore Templates](https://github.com/github/gitignore)
-- [Git Branching Guide](https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
+### Frameworks & Libraries
+- ASP.NET Core: https://learn.microsoft.com/aspnet/core/
+- Dapper: https://github.com/DapperLib/Dapper
 
-# Structured Query Language (SQL)
-- [SQL Style Guide by Simon Holywell](https://www.sqlstyle.guide/)
+### Database
+- SQL style guide: https://www.sqlstyle.guide/
 
-# Other
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
+### Security
+- OWASP Top 10: https://owasp.org/www-project-top-ten/
+- SQL injection prevention: https://cheatsheetseries.owasp.org/
 
+### Version Control
+
+#### Git
+- .gitignore templates: https://github.com/github/gitignore
+- Branching guide: https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops
+
+### Web Platform & Standards
+- MDN Web Docs: https://developer.mozilla.org/en-US/ 
+
+### Cloud Platform & Infrastructure
+- AWS — https://docs.aws.amazon.com/
