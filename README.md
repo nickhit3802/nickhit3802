@@ -35,7 +35,8 @@
 ### Web Platform & Standards
 - MDN Web Docs: https://developer.mozilla.org/en-US/ 
 
-### Project Organization
-- Directory structure conventions: https://github.com/kriasoft/Folder-Structure-Conventions
 ### Cloud Platform & Infrastructure
 - AWS: https://docs.aws.amazon.com/
+
+### Project Organization
+- Directory structure conventions: https://github.com/kriasoft/Folder-Structure-Conventions
