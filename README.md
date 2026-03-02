@@ -9,6 +9,7 @@
     - [Git](#git)
 6. [Web Platform & Standards](#web-platform--standards)
 7. [Cloud Platform & Infrastructure](#cloud-platform--infrastructure)
+8. [Project Organization](#project-organization)
 
 ### Languages & Runtimes
 - C#: https://learn.microsoft.com/dotnet/csharp/
@@ -34,5 +35,7 @@
 ### Web Platform & Standards
 - MDN Web Docs: https://developer.mozilla.org/en-US/ 
 
+### Project Organization
+- Directory structure conventions: https://github.com/kriasoft/Folder-Structure-Conventions
 ### Cloud Platform & Infrastructure
 - AWS: https://docs.aws.amazon.com/
