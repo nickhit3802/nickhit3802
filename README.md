@@ -7,7 +7,7 @@
     - [Git](#git)
 6. [Web Platform & Standards](#web-platform--standards)
 7. [Cloud Platform & Infrastructure](#cloud-platform--infrastructure)
-8. [Project Organization](#project-organization)
+8. [Best Practices](#best-practices)
 
 # Languages & Runtimes
 - C#: https://learn.microsoft.com/dotnet/csharp/
