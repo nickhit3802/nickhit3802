@@ -1,3 +1,5 @@
+Reading, math, and writing.
+
 # Table of Contents
 1. [Languages & Runtimes](#languages--runtimes)
 2. [Frameworks & Libraries](#frameworks--libraries)
