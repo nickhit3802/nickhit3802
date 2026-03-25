@@ -1,15 +1,19 @@
 Reading, math, and writing.
 
 # Table of Contents
-1. [Languages & Runtimes](#languages--runtimes)
-2. [Frameworks & Libraries](#frameworks--libraries)
-3. [Database](#database)
-4. [Security](#security)
-5. [Version Control](#version-control)
+1. [Best Practices](#best-practices)
+2. [Languages & Runtimes](#languages--runtimes)
+3. [Frameworks & Libraries](#frameworks--libraries)
+4. [Database](#database)
+5. [Security](#security)
+6. [Version Control](#version-control)
     - [Git](#git)
-6. [Web Platform & Standards](#web-platform--standards)
-7. [Cloud Platform & Infrastructure](#cloud-platform--infrastructure)
-8. [Best Practices](#best-practices)
+7. [Web Platform & Standards](#web-platform--standards)
+8. [Cloud Platform & Infrastructure](#cloud-platform--infrastructure)
+
+## Best Practices
+- Modern Development Workflow: https://medium.com/@averageguymedianow/the-modern-developers-workflow-best-practices-for-peak-productivity-7655be24947f
+- Directory structure conventions: https://github.com/kriasoft/Folder-Structure-Conventions
 
 ## Languages & Runtimes
 - C#: https://learn.microsoft.com/dotnet/csharp/
@@ -37,7 +41,3 @@ Reading, math, and writing.
 
 ## Cloud Platform & Infrastructure
 - AWS: https://docs.aws.amazon.com/
-
-## Best Practices
-- Modern Development Workflow: https://medium.com/@averageguymedianow/the-modern-developers-workflow-best-practices-for-peak-productivity-7655be24947f
-- Directory structure conventions: https://github.com/kriasoft/Folder-Structure-Conventions
