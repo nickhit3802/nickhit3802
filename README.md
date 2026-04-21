@@ -15,7 +15,6 @@
 
 ## Languages & Runtimes
 - C#: https://learn.microsoft.com/dotnet/csharp/
-- .NET runtime docs: https://learn.microsoft.com/dotnet/
 
 ## Frameworks & Libraries
 - ASP.NET Core: https://learn.microsoft.com/aspnet/core/
