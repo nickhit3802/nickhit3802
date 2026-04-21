@@ -34,6 +34,7 @@ Reading, math, and writing.
 
 ### Git
 - .gitignore templates: https://github.com/github/gitignore
+- Conventions: https://conventional-branch.github.io/
 - Branching guide: https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops
 
 ## Web Platform & Standards
