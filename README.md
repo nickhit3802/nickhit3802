@@ -1,5 +1,3 @@
-Reading, math, and writing.
-
 # Table of Contents
 1. [Best Practices](#best-practices)
 2. [Languages & Runtimes](#languages--runtimes)
