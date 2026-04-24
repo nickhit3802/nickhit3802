@@ -10,6 +10,7 @@
 8. [Cloud Platform & Infrastructure](#cloud-platform--infrastructure)
 
 ## Best Practices
+- README: https://www.freecodecamp.org/news/how-to-structure-your-readme-file/#heading-contributing
 - Modern Development Workflow: https://medium.com/@averageguymedianow/the-modern-developers-workflow-best-practices-for-peak-productivity-7655be24947f
 - Directory structure conventions: https://github.com/kriasoft/Folder-Structure-Conventions
 
