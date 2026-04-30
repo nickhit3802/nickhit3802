@@ -27,6 +27,7 @@
 ## Security
 - OWASP Top 10: https://owasp.org/www-project-top-ten/
 - SQL injection prevention: https://cheatsheetseries.owasp.org/
+- SSH for Windows: https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement
 
 ## Version Control
 
