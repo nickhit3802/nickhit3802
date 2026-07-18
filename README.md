@@ -5,7 +5,6 @@
 4. [Database](#database)
 5. [Security](#security)
 6. [Version Control](#version-control)
-    - [Git](#git)
 7. [Web Platform & Standards](#web-platform--standards)
 8. [Cloud Platform & Infrastructure](#cloud-platform--infrastructure)
 
@@ -32,10 +31,10 @@
 
 ## Version Control
 
-### Git
-- .gitignore templates: https://github.com/github/gitignore
-- Conventions: https://conventional-branch.github.io/
-- Branching guide: https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops
+- Git
+    - .gitignore templates: https://github.com/github/gitignore
+    - Conventions: https://conventional-branch.github.io/
+    - Branching guide: https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops
 
 ## Web Platform & Standards
 - MDN Web Docs: https://developer.mozilla.org/en-US/ 
