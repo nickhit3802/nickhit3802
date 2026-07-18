@@ -16,13 +16,14 @@
 
 ## Languages & Runtimes
 - C#: https://learn.microsoft.com/dotnet/csharp/
+- SQL style guide: https://www.sqlstyle.guide/
 
 ## Frameworks & Libraries
 - ASP.NET Core: https://learn.microsoft.com/aspnet/core/
 - Dapper: https://github.com/DapperLib/Dapper
 
 ## Database
-- SQL style guide: https://www.sqlstyle.guide/
+- None
 
 ## Security
 - OWASP Top 10: https://owasp.org/www-project-top-ten/
